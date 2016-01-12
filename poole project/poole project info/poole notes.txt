@@ -1,0 +1,60 @@
+simple direct.
+
+website acess
+
+generate a typical weekly schedule based on what homework they have, what school activities 
+clubs and associations) 
+they could participate in, and what sports they could play
+
+-- interview students / get a sample schedule
+
+for one week, entire day—not just a school schedule.
+
+Perhaps 6AM to 11-11:30PM -- possible student feedback, should be asleep 
+
+weekends and time they will get to sleep (hours)
+
+Classes
+
+No—I think we can plug regular school hours into the interface for each day 
+
+?	Extracurriculars
+Yes—both after-school activities and sports (both practices and games). 
+
+
+?	how should the number of hours per week be displayed?
+
+I’m thinking of a daily one week schedule that starts on Monday and ends on Sunday.
+?	should we include number of hours per day?
+
+
+In addition to the one week calendar that the interface produces, it would be nice to include that “total time commitment” and the calculation. 
+?	should there be a listed schedule for each day?
+
+Yes—but just for the four main categories (school day, homework, school activities (clubs and associations), and sports).
+
+
+
+o	what format should it be in? 
+?	ex:  website, app, etc
+?	Can we choose the platform?
+
+
+SQL, databases 
+
+Ruby backend/ python 
+
+node for the website 
+
+bootstrap
+
+(maybe) wordpress blog within 
+
+for updates
+
+•	When will we get the correct data for time hours?
+I think I should be able to get it for you in no more than two weeks (1/15), perhaps sooner. 
+
+broader averages and estimates
+
+web based everything.
